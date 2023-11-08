@@ -8,6 +8,7 @@ Overview
 - Chapter2: The principles of cloud native development
 - Chapter3: The fundamentals of starting a new cloud native project
 - Chapter4: The importance of externalized configuration
+- Chapter5: The main aspects of data services in the cloud
 
 ## Demo
 
