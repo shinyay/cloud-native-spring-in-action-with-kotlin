@@ -4,11 +4,12 @@ Overview
 
 ## Description
 
-- Chapter1: Introduction to the cloud native landscape
-- Chapter2: The principles of cloud native development
-- Chapter3: The fundamentals of starting a new cloud native project
-- Chapter4: The importance of externalized configuration
-- Chapter5: The main aspects of data services in the cloud
+- Chapter01: Introduction to the cloud native landscape
+- Chapter02: The principles of cloud native development
+- Chapter03: The fundamentals of starting a new cloud native project
+- Chapter04: The importance of externalized configuration
+- Chapter05: The main aspects of data services in the cloud
+- Chapter06: Docker and how to pack- age Spring Boot applications as container images
 
 ## Demo
 
