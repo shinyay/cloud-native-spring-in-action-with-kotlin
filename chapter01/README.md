@@ -40,3 +40,15 @@ What is Cloud Native?
     - Container scheduling, cluster management
   - Serverless
     - Servers and backing services managed by the cloud platform
+- Architectures
+  - Application services
+    - Loosely coupled, stateless, independently deployable units
+  - Data services
+    - Databases
+    - Messaging systems
+    - Other stateful components
+  - Interactions
+    - HTTP
+    - RSocket
+    - gRPC
+    - Messaging
