@@ -33,3 +33,10 @@ What is Cloud Native?
     - Better and faster software deliveries
   - DevOps
     - Culture of collaboration between different roles
+- Topologies
+  - Containers
+    - Lightweight and isolated computing contexts
+  - Orchestration
+    - Container scheduling, cluster management
+  - Serverless
+    - Servers and backing services managed by the cloud platform
