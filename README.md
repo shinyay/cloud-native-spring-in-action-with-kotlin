@@ -19,6 +19,7 @@ Overview
 - Chapter13: How to make your cloud native applications observable using Spring Boot Actuator
 - Chapter14: Advanced configuration and secrets management strategies, including Kubernetes-native options
 - Chapter15: Kubernetes cluster in the public cloud adopting a GitOps strategy
+- Chapter16: Spring Native and Spring Cloud Function
 
 ## Demo
 
