@@ -10,6 +10,7 @@ Overview
 - Chapter04: The importance of externalized configuration
 - Chapter05: The main aspects of data services in the cloud
 - Chapter06: Docker and how to pack- age Spring Boot applications as container images
+- Chapter07: Kubernetes and covers service discovery, load balancing, scalability, and local development workflows
 
 ## Demo
 
