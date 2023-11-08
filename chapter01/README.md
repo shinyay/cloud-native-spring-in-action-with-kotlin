@@ -13,3 +13,14 @@ What is Cloud Native?
     - PaaS
     - FaaS
     - SaaS
+- Application properties
+  - Scalability
+    - Dynamically support increasing or decreasing workloads
+  - Loose coupling
+    - Components have minimal knowledge of each other
+  - Resilience
+    - Maintain level of service in face of adversity
+  - Manageability
+    - Level of control from the outside: update, configure, deploy
+  - Observability
+    - Knowledge about the internal state inferred from the outside
