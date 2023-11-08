@@ -24,3 +24,12 @@ What is Cloud Native?
     - Level of control from the outside: update, configure, deploy
   - Observability
     - Knowledge about the internal state inferred from the outside
+- Practices
+  - Automation
+    - Reproducible
+    - Efficient
+    - Reliable
+  - Continuous delivery
+    - Better and faster software deliveries
+  - DevOps
+    - Culture of collaboration between different roles
