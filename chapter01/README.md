@@ -26,8 +26,8 @@ What is Cloud Native?
     - Knowledge about the internal state inferred from the outside
 - Practices
   - Automation
-    - Reproducible
     - Efficient
+    - Reproducible
     - Reliable
   - Continuous delivery
     - Better and faster software deliveries
@@ -52,3 +52,16 @@ What is Cloud Native?
     - RSocket
     - gRPC
     - Messaging
+- Goals
+  - Speed
+    - Faster
+    - Flexible delivery
+  - Resilience
+    - Availability
+    - Stability
+  - Scale
+    - Elasticity
+    - Dynamic scaling
+  - Cost
+    - Efficiency
+    - Cost optimization
