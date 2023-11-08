@@ -17,6 +17,7 @@ Overview
 - Chapter11: Security
 - Chapter12: How to use OAuth2 and Spring Security
 - Chapter13: How to make your cloud native applications observable using Spring Boot Actuator
+- Chapter14: Advanced configuration and secrets management strategies, including Kubernetes-native options
 
 ## Demo
 
