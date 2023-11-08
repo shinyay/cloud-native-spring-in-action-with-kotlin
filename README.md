@@ -14,6 +14,7 @@ Overview
 - Chapter08: Reactive programming and the main features of the Spring reactive stack
 - Chapter09: The API gateway pattern and how to build edge services with Spring Cloud Gateway
 - Chapter10: Event-driven architectures
+- Chapter11: Security
 
 
 ## Demo
