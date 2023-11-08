@@ -15,7 +15,7 @@ Overview
 - Chapter09: The API gateway pattern and how to build edge services with Spring Cloud Gateway
 - Chapter10: Event-driven architectures
 - Chapter11: Security
-
+- Chapter12: How to use OAuth2 and Spring Security
 
 ## Demo
 
