@@ -16,6 +16,7 @@ Overview
 - Chapter10: Event-driven architectures
 - Chapter11: Security
 - Chapter12: How to use OAuth2 and Spring Security
+- Chapter13: How to make your cloud native applications observable using Spring Boot Actuator
 
 ## Demo
 
