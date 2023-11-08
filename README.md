@@ -12,6 +12,7 @@ Overview
 - Chapter06: Docker and how to pack- age Spring Boot applications as container images
 - Chapter07: Kubernetes and covers service discovery, load balancing, scalability, and local development workflows
 - Chapter08: Reactive programming and the main features of the Spring reactive stack
+- Chapter09: The API gateway pattern and how to build edge services with Spring Cloud Gateway.
 
 ## Demo
 
