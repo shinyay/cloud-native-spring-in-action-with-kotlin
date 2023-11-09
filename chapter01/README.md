@@ -65,3 +65,8 @@ What is Cloud Native?
   - Cost
     - Efficiency
     - Cost optimization
+
+- **The Threee Ps of Cloud Native**
+  - Platform
+  - Properties
+  - Practice
